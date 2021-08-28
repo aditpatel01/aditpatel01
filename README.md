@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Adit
-- 👀 I’m interested in software development
+- 👋 Hi, I’m Adit.
+- 👀 I’m interested in software development.
 - 📫 Reach me at pateladit2001@gmail.com
 
 <!---
